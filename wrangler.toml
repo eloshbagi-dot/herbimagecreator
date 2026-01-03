@@ -1,0 +1,9 @@
+# wrangler.toml
+name = "herbimagecreator"
+main = "src/index.js"
+compatibility_date = "2024-12-01"
+
+# هنا هتضيف KV binding
+[[kv_namespaces]]
+binding = "PLANT_DB"  # اسم هتستخدمه في الكود
+id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  # إحنا محتاجين ده!
