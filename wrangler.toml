@@ -3,7 +3,7 @@ name = "herbimagecreator"
 main = "src/index.js"
 compatibility_date = "2024-12-01"
 
-# هنا هتضيف KV binding
+# KV Binding للبيانات النباتية
 [[kv_namespaces]]
-binding = "PLANT_DB"  # اسم هتستخدمه في الكود
-id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  # إحنا محتاجين ده!
+binding = "PLANT_DB"
+id = "01d04fd088e040dea48aef5cad7b9cd3"
